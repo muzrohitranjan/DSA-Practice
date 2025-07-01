@@ -1,2 +1,8 @@
-# DSA-Practice
-My solutions to DSA problems from LeetCode, GFG, etc.
+# 🧠 DSA Practice
+
+Solved problems from LeetCode and GFG categorized by topic:
+- Arrays
+- Strings
+- DP
+- Graphs
+- Hashing
